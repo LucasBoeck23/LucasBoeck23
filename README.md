@@ -6,7 +6,6 @@
 * **📆Tenho 18 anos**
 * **🏡Morando atualmente em Petrópolis/RJ**
 * **📖Residente do Programa TIC/Software do Serratec**
-* **🔍Interesse em vagas focadas em Back-end e Banco de Dados**
 * **💼Contato: boecklucas23@gmail.com**
 
 </br>
