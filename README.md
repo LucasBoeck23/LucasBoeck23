@@ -9,6 +9,11 @@
 * **🔍Interesse em vagas focadas em Back-end e Banco de Dados**
 * **💼Contato: boecklucas23@gmail.com**
 
+</br>
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBoeck23&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Tecnologias 💻</h2>
   <ul>
         <li><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></li>
@@ -20,5 +25,6 @@
     </ul>
   
 </ul>
+
 
 
