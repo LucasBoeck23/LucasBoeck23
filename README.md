@@ -13,6 +13,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBoeck23&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBoeck23&show_icons=true&theme=darcula)
+
 <h2>Tecnologias 💻</h2>
   <ul>
         <li><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></li>
