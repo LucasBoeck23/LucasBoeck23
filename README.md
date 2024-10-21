@@ -5,7 +5,7 @@
 * **👤Meu nome é Lucas Boeck**
 * **📆Tenho 18 anos**
 * **🏡Morando atualmente em Petrópolis/RJ**
-* **📖Residente do Programa TIC/Software do Serratec**
+* **📖Ex-Residente do Programa TIC/Software do Serratec**
 * **💼Contato: boecklucas23@gmail.com**
 
 </br>
